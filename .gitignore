@@ -1,0 +1,27 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore artifacts directory
+artifacts/
+
+# Ignore virtual environment
+env/
+
+# Ignore source distribution files (if applicable)
+src.egg-info/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore any compiled Python files (if any)
+*.pyc
+
+# Ignore operating system-specific files
+.DS_Store
+
+# Ignore any environment-specific files
+# Add more patterns here if needed
+
+# Ignore IDE or editor-specific files
+.vscode/
+.idea/
